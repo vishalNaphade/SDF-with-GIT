@@ -9,6 +9,7 @@
         <path>~/Objects/*</path>
     </objects>
     <translationimports>
+        <!-- <path>~/Translations/*</path> -->
         <path>~/Translations/*</path>
     </translationimports>
 </deploy>
